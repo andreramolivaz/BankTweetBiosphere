@@ -1,0 +1,300 @@
+username,language,isInfluencer,profession,isBank,isViral,hashtags
+federalreserve,en,0,analyst,0,1,['BalanceSheet']
+federalreserve,en,0,analyst,0,1,"['BalanceSheet', 'FedData']"
+federalreserve,en,0,curious,0,1,
+federalreserve,en,0,analyst,0,1,
+federalreserve,en,0,unknown,0,1,['EnforcementActions']
+federalreserve,en,0,curious,0,1,['FedFAQ']
+federalreserve,en,0,unknown,0,1,
+ChicagoFed,0,0,0,0,0,0
+KansasCityFed,0,0,0,0,0,0
+stlouisfed,0,0,0,0,0,0
+federalreserve,en,0,analyst,0,1,"['IndustrialProduction', 'CapacityUtilization', 'FedData']"
+federalreserve,en,0,politics,0,1,['FedFAQ']
+federalreserve,en,0,analyst,0,1,['FedData']
+federalreserve,en,0,unknown,0,1,['calendar']
+federalreserve,en,0,finance expert,0,1,
+federalreserve,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,
+federalreserve,en,0,supporter,0,1,
+federalreserve,en,0,unknown,0,1,['FOMC']
+federalreserve,nl,0,finance expert,0,1,['FOMC']
+federalreserve,en,0,finance expert,0,1,['FedFAQ']
+federalreserve,en,0,unknown,0,1,['BeigeBook']
+federalreserve,en,0,unknown,0,1,"['ICYMI', 'FOMC']"
+FDICgov,0,0,0,0,0,0
+USOCC,0,0,0,0,0,0
+federalreserve,en,0,analyst,0,0,"['IndustrialProduction', 'CapacityUtilization', 'FedData']"
+federalreserve,en,0,unknown,0,0,['FOMC']
+federalreserve,en,0,finance expert,0,0,
+federalreserve,en,0,analyst,0,0,
+federalreserve,nl,0,finance expert,0,0,['FOMC']
+federalreserve,en,0,supporter,0,0,
+federalreserve,en,0,politics,0,0,['FedFAQ']
+federalreserve,en,0,analyst,0,0,['FedData']
+federalreserve,en,0,curious,0,0,['FedFAQ']
+federalreserve,en,0,unknown,0,0,['calendar']
+federalreserve,en,0,analyst,0,0,"['BalanceSheet', 'FedData']"
+federalreserve,en,0,curious,0,0,
+federalreserve,en,0,finance expert,0,0,['FedFAQ']
+federalreserve,en,0,unknown,0,0,['EnforcementActions']
+federalreserve,en,0,unknown,0,0,['BeigeBook']
+federalreserve,en,0,unknown,0,0,['FedChallenge']
+Princeton,0,0,0,0,0,0
+federalreserve,en,0,finance expert,0,0,"['DiversityandInclusion', 'DiversityInEcon', 'EconTwitter']"
+bankofcanada,0,0,0,0,0,0
+bankofengland,0,0,0,0,0,0
+ecb,0,0,0,0,0,0
+federalreserve,en,0,curious,0,0,['EconEdMonth']
+federalreserve,en,0,finance expert,0,0,"['FedFAQ', 'EconEdMonth']"
+federalreserve,en,0,unknown,0,0,['EconEdMonth']
+uscurrency,0,0,0,0,0,0
+federalreserve,en,0,analyst,0,0,"['FedEconJobs', 'EconEdMonth']"
+federalreserve,en,0,unknown,0,0,"['FedEconJobs', 'EconTwitter', 'EconEdMonth']"
+federalreserve,en,0,unknown,0,0,"['Economics', 'FedEconJobs', 'EconTwitter', 'EconEdMonth']"
+federalreserve,en,0,unknown,0,0,"['FedEconJobs', 'Economics', 'EconTwitter', 'EconEdMonth']"
+federalreserve,en,0,finance expert,0,0,"['EconTwitter', 'EconEdMonth', 'towardinclusiverecovery']"
+FedCommunities,0,0,0,0,0,0
+NewYorkFed,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,"['EconTwitter', 'EconEdMonth']"
+federalreserve,en,0,curious,0,0,"['economics', 'FedEconJobs', 'EconEdMonth']"
+federalreserve,en,0,analyst,0,0,"['FedEconJobs', 'Economics', 'EconTwitter', 'EconEdMonth']"
+federalreserve,en,0,analyst,0,0,['towardinclusiverecovery']
+federalreserve,en,0,analyst,0,0,"['EconTwitter', 'EconEdMonth']"
+DallasFed,0,0,0,0,0,0
+CFPB,0,0,0,0,0,0
+AtlantaFed,0,0,0,0,0,0
+federalreserve,en,0,curious,0,0,"['economics', 'FedEconJobs', 'EconTwitter', 'EconEdMonth']"
+benbernanke,0,0,0,0,0,0
+NobelPrize,0,0,0,0,0,0
+federalreserve,en,0,finance expert,0,0,"['EconEdMonth', 'towardinclusiverecovery']"
+federalreserve,en,0,curious,0,0,"['economics', 'EconTwitter', 'EconEdMonth']"
+federalreserve,en,0,unknown,0,0,"['FedFAQ', 'EconEdMonth']"
+federalreserve,en,0,curious,0,0,"['EconTwitter', 'EconEdMonth']"
+RichmondFed,0,0,0,0,0,0
+federalreserve,en,0,supporter,0,0,['EconEdMonth']
+federalreserve,en,0,unknown,0,0,['HurricaneIan']
+CSBSNews,0,0,0,0,0,0
+TheNCUA,0,0,0,0,0,0
+federalreserve,en,0,curious,0,0,"['Economics', 'FedEconJobs', 'EconTwitter', 'EconEdMonth']"
+federalreserve,en,0,finance expert,0,0,['FedListens']
+federalreserve,en,0,unknown,0,0,['FedListens']
+federalreserve,en,0,unknown,0,0,['EnforcementAction']
+federalreserve,en,0,unknown,0,0,['EconTwitter']
+federalreserve,en,0,curious,0,0,['FedChallenge']
+federalreserve,en,0,finance expert,0,0,['FedChallenge']
+federalreserve,nl,0,analyst,0,0,"['BalanceSheet', 'FedData']"
+MinneapolisFed,0,0,0,0,0,0
+federalreserve,en,1,unknown,0,0,
+federalreserve,da,0,unknown,0,0,
+FederalReseve,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,['ICYMI']
+federalreserve,en,0,analyst,0,0,['COVID19']
+federalreserve,en,0,unknown,0,0,['CBDC']
+WSJ,0,0,0,0,0,0
+Marketplace,0,0,0,0,0,0
+federalreserve,en,0,critic,0,0,
+fcagov,0,0,0,0,0,0
+federalreserve,en,0,finance expert,0,0,['ICYMI']
+federalreserve,unknown,0,unknown,0,0,
+federalreserve,en,0,curious,0,0,['CBDC']
+federalreserve,en,0,finance expert,0,0,"['FedFAQ', 'FOMC']"
+federalreserve,en,0,analyst,0,0,"['FedEconJobs', 'Economics']"
+federalreserve,en,0,unknown,0,0,"['Economics', 'FedEconJobs', 'EconTwitter']"
+federalreserve,en,0,unknown,0,0,"['FedEconJobs', 'Economics', 'EconTwitter']"
+federalreserve,en,0,curious,0,0,['NCPW2022']
+federalreserve,en,0,curious,0,0,"['NCPW2022', 'SlamTheScam']"
+federalreserve,en,0,analyst,0,0,"['SlamTheScam', 'NCPW2022']"
+federalreserve,en,0,curious,0,0,"['economics', 'FedEconJobs', 'EconTwitter']"
+federalreserve,en,0,politics,0,0,"['SlamTheScam', 'NCPW2022']"
+federalreserve,en,0,curious,0,0,"['Economics', 'FedEconJobs', 'EconTwitter']"
+federalreserve,en,0,analyst,0,0,['dataconnectivity']
+federalreserve,en,0,curious,0,0,"['economics', 'FedEconJobs']"
+federalreserve,en,0,unknown,0,0,"['ICYMI', 'CBDC']"
+federalreserve,en,0,politics,0,0,
+federalreserve,de,0,unknown,0,0,
+federalreserve,en,0,unknown,0,0,['FedFAQ']
+PaceUniversity,0,0,0,0,0,0
+federalreserve,en,0,analyst,0,0,"['ICYMI', 'COVID19']"
+federalreserve,en,0,finance expert,0,0,['DiversityInEcon']
+federalreserve,en,0,finance expert,0,0,['COVID19']
+federalreserve,en,0,analyst,0,0,['DiversityInEcon']
+federalreserve,en,0,analyst,0,0,['EconEdMonth']
+federalreserve,en,0,unknown,0,0,"['ICYMI', 'FedEconJobs', 'Economics', 'EconEdMonth']"
+federalreserve,en,0,analyst,0,0,"['CapacityUtilization', 'FedData']"
+federalreserve,en,0,unknown,0,0,['IndustrialProduction']
+federalreserve,en,0,curious,0,0,"['EconEdMonth', 'FedEconJobs', 'EconTwitter']"
+ClevelandFed,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,"['FedChallenge', 'EconTwitter', 'Economics', 'FedChallenge']"
+federalreserve,en,0,curious,0,0,['FedListens']
+federalreserve,en,0,unknown,0,0,['HurricaneIda']
+federalreserve,en,0,unknown,0,0,"['CaliforniaFires', 'CaliforniaWildfires']"
+federalreserve,en,0,unknown,0,0,"['FedTownHall', 'TeachEcon']"
+federalreserve,en,0,curious,0,0,"['FedTownHall', 'TeachEcon']"
+federalreserve,en,0,curious,0,0,['FedTownHall']
+federalreserve,en,0,unknown,0,0,"['FedChair', 'FedTownHall']"
+federalreserve,en,0,unknown,0,0,"['FedTownHall', 'FedChair']"
+federalreserve,en,0,unknown,0,0,['FedTownHall']
+federalreserve,en,0,critic,0,0,"['FedChair', 'FedTownHall']"
+federalreserve,en,0,curious,0,0,"['FedChair', 'FedTownHall']"
+federalreserve,en,0,critic,0,0,['FedTownHall']
+federalreserve,en,0,analyst,0,0,"['employment', 'COVID19']"
+federalreserve,nl,0,unknown,0,0,
+federalreserve,en,0,unknown,0,0,"['FedChallenge', 'FedChallenge']"
+federalreserve,en,0,politics,0,0,"['government', 'contracts']"
+federalreserve,en,0,unknown,0,0,['COVID19']
+federalreserve,en,0,finance expert,0,0,"['ICYMI', 'CRA']"
+federalreserve,en,0,curious,0,0,"['TeachEcon', 'EduChat', 'EconEd']"
+philadelphiafed,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,"['bankers', 'financial', 'fintech']"
+federalreserve,en,0,unknown,0,0,['COVID']
+federalreserve,en,0,unknown,0,0,['FederalReserve']
+federalreserve,en,0,unknown,0,0,['fintechs']
+federalreserve,en,0,analyst,0,0,['ICYMI']
+federalreserve,en,0,finance expert,0,0,['COVID']
+federalreserve,en,0,curious,0,0,['COVID19']
+federalreserve,en,0,unknown,0,0,"['ICYMI', 'FOMC']"
+federalreserve,en,0,finance expert,0,0,"['education', 'FinancialLiteracyMonth']"
+federalreserve,en,0,unknown,0,0,"['FOMC', 'FOMC']"
+federalreserve,de,0,unknown,0,0,['ICYMI']
+federalreserve,en,0,unknown,0,0,"['ICYMI', 'FedChallenge']"
+federalreserve,en,0,unknown,0,0,['Fed']
+federalreserve,en,0,analyst,0,0,"['ICYMI', 'FedEconJobs', 'Economics']"
+60Minutes,0,0,0,0,0,0
+federalreserve,en,0,curious,0,0,"['ICYMI', 'FedEconJobs', 'Economics', 'EconTwitter']"
+IMFNews,0,0,0,0,0,0
+federalreserve,en,0,analyst,0,0,"['FedEconJobs', 'Economics', 'EconTwitter']"
+MorningEdition,0,0,0,0,0,0
+federalreserve,en,0,curious,0,0,"['FedEconJobs', 'Economics', 'EconTwitter']"
+federalreserve,en,0,supporter,0,0,"['NCPW2021', 'SlamTheScam']"
+federalreserve,en,0,politics,0,0,"['SlamTheScam', 'SlamTheScam', 'NCPW2021']"
+federalreserve,en,0,curious,0,0,"['SlamTheScam', 'NCPW2021']"
+CFR_org,0,0,0,0,0,0
+IIBnews,0,0,0,0,0,0
+Harvard,0,0,0,0,0,0
+federalreserve,en,0,supporter,0,0,['ICYMI']
+federalreserve,en,0,unknown,0,0,"['WomeninEconomics', 'TeachEcon', 'EconTwitter']"
+federalreserve,en,0,unknown,0,0,['TheFed']
+NGFS_,0,0,0,0,0,0
+federalreserve,en,0,curious,0,0,"['FedFAQ', 'FOMC']"
+ICBA,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,"['FedEconJobs', 'EconTwitter']"
+HowardU,0,0,0,0,0,0
+federalreserve,en,0,curious,0,0,['ICYMI']
+dartmouth,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,"['ICYMI', 'climatechange']"
+federalreserve,en,0,unknown,0,0,['ECBForum']
+MFAupdates,0,0,0,0,0,0
+federalreserve,pt,0,unknown,0,0,
+federalreserve,en,0,unknown,0,0,"['FedChallenge', 'EconTwitter', 'Economics']"
+federalreserve,en,0,finance expert,0,0,['FedSCF']
+federalreserve,en,0,unknown,0,0,['FedSCF']
+federalreserve,en,0,analyst,0,0,['FedSCF']
+Fed_Careers,0,0,0,0,0,0
+FedResearch,0,0,0,0,0,0
+federalreserve,en,0,politics,0,0,"['government', 'contract']"
+Harvard_Law,0,0,0,0,0,0
+Wharton,0,0,0,0,0,0
+federalreserve,en,0,analyst,0,0,['paymentinnovation']
+federalreserve,en,0,unknown,0,0,"['ICYMI', 'retailbanking']"
+federalreserve,en,0,unknown,0,0,['retailbanking']
+federalreserve,en,0,unknown,0,0,"['payments', 'FedNow']"
+federalreserve,en,0,supporter,0,0,"['FedNow', 'instantpayments']"
+BrookingsInst,0,0,0,0,0,0
+MichiganCFLP,0,0,0,0,0,0
+FHFA,0,0,0,0,0,0
+CFTC,0,0,0,0,0,0
+sec_news,0,0,0,0,0,0
+BostonFed,0,0,0,0,0,0
+federalreserve,en,0,analyst,0,0,['FedListens']
+SBAgov,0,0,0,0,0,0
+TODAYshow,0,0,0,0,0,0
+federalreserve,en,0,analyst,0,0,['FOMC']
+LinkedIn,0,0,0,0,0,0
+urbaninstitute,0,0,0,0,0,0
+federalreserve,en,0,supporter,0,0,['FedFAQ']
+FedEconEd,0,0,0,0,0,0
+federalreserve,en,0,supporter,0,0,"['JSNEC19', 'EconEd']"
+NatlJumpStart,0,0,0,0,0,0
+PIIE,0,0,0,0,0,0
+KIPP_DC,0,0,0,0,0,0
+APSVirginia,0,0,0,0,0,0
+Georgetown,0,0,0,0,0,0
+DelStateUniv,0,0,0,0,0,0
+GeorgeMasonU,0,0,0,0,0,0
+CDIScholars,0,0,0,0,0,0
+BowieState,0,0,0,0,0,0
+UofMaryland,0,0,0,0,0,0
+mcgillu,0,0,0,0,0,0
+VCU,0,0,0,0,0,0
+GWtweets,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,['economics']
+federalreserve,en,0,curious,0,0,"['FedEconJobs', 'EconTwitter']"
+federalreserve,en,0,curious,0,0,"['FedEconJobs', 'Economics']"
+federalreserve,en,0,unknown,0,0,"['ICYMI', 'BeigeBook']"
+federalreserve,en,0,analyst,0,0,"['ICYMI', 'FedListens']"
+federalreserve,en,0,analyst,0,0,['CommDev2019']
+federalreserve,en,0,finance expert,0,0,"['FinLitMonth', 'financialeducation']"
+federalreserve,en,0,curious,0,0,"['ICYMI', 'FedEconJobs', 'econtwitter']"
+federalreserve,en,0,unknown,0,0,"['ICYMI', 'FOMC', 'FedEconJobs', 'econtwitter']"
+federalreserve,en,0,unknown,0,0,"['economics', 'FedEconJobs', 'Economics']"
+federalreserve,en,0,unknown,0,0,"['FedEconJobs', 'Economics']"
+federalreserve,en,0,finance expert,0,0,['derivatives']
+federalreserve,en,0,finance expert,0,0,['BdFSUERF']
+federalreserve,en,0,unknown,0,0,"['ICYMI', 'FedTownHall']"
+MVSUDEVILS,0,0,0,0,0,0
+FinStbBoard,0,0,0,0,0,0
+federalreserve,en,0,critic,0,0,"['FedChairman', 'STEM', 'Economics']"
+SanFranFed,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,"['FedChairman', 'FedTownHall']"
+federalreserve,en,0,critic,0,0,"['FedChairman', 'FedTownHall']"
+sffed,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,['ASSA2019']
+Yale,0,0,0,0,0,0
+USTreasury,0,0,0,0,0,0
+federalreserve,en,0,curious,0,0,['Hurricane']
+federalreserve,en,0,analyst,0,0,"['ICYMI', 'FOMC']"
+federalreserve,en,0,supporter,0,0,"['JSNEC18', 'EconEd']"
+UNCF,0,0,0,0,0,0
+UCBerkeley,0,0,0,0,0,0
+UMBaltimore,0,0,0,0,0,0
+AmericanU,0,0,0,0,0,0
+Morehouse,0,0,0,0,0,0
+WHSHappenings,0,0,0,0,0,0
+NebraskaEcon,0,0,0,0,0,0
+federalreserve,en,0,analyst,0,0,['Economics']
+federalreserve,en,0,unknown,0,0,['HurricaneMichael']
+federalreserve,en,0,unknown,0,0,['TheAtlanticFest']
+JudyWoodruff,0,0,0,0,0,0
+federalreserve,en,0,curious,0,0,['EconEd']
+federalreserve,en,0,unknown,0,0,"['EnforcementAction', 'EnforcementAction']"
+UcocC,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,['FedEconJobs']
+federalreserve,en,0,unknown,0,0,"['EnforcementActions', 'EnforcementActions']"
+mHUBChicago,0,0,0,0,0,0
+federalreserve,en,0,finance expert,0,0,['FOMC']
+federalreserve,en,0,analyst,0,0,"['FOMC', 'Yellen']"
+federalreserve,en,0,unknown,0,0,"['Yellen', 'FOMC']"
+federalreserve,en,0,unknown,0,0,['Yellen']
+NYUStern,0,0,0,0,0,0
+federalreserve,en,0,curious,0,0,['Yellen']
+federalreserve,en,0,politics,0,0,['Yellen']
+federalreserve,en,0,finance expert,0,0,['Yellen']
+federalreserve,en,0,analyst,0,0,['Yellen']
+federalreserve,en,0,analyst,0,0,"['derivatives', 'FedData']"
+federalreserve,en,0,unknown,0,0,['FFMB17']
+TriCedu,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,"['FOMC', 'Yellen']"
+federalreserve,fr,0,unknown,0,0,
+riksbanken,0,0,0,0,0,0
+BrownUniversity,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,['HooverFedconference']
+federalreserve,en,0,analyst,0,0,['CommDev2017']
+federalreserve,en,0,analyst,0,0,"['Yellen', 'CommDev2017']"
+federalreserve,ca,0,analyst,0,0,
+federalreserve,en,0,unknown,0,0,"['ICYMI', 'Yellen']"
+federalreserve,en,0,finance expert,0,0,['ubalt']
+eubiebee,0,0,0,0,0,0
+federalreserve,en,0,unknown,0,0,['FF']
+federalreserve,en,0,unknown,0,0,['Fedspeak']
+federalreserve,en,0,unknown,0,0,['ARCPolak']

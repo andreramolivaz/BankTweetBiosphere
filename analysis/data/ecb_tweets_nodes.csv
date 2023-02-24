@@ -1,0 +1,910 @@
+username,language,isInfluencer,profession,isBank,isViral,hashtags
+ecb,en,0,analyst,0,0,
+Isabel_Schnabel,0,0,0,0,0,0
+Bloomberg,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,
+ecb,en,0,unknown,0,1,
+CER_EU,0,0,0,0,0,0
+EUdelegationUK,0,0,0,0,0,0
+ecb,en,0,analyst,0,1,
+ecb,en,0,analyst,0,1,['EconomicBulletin']
+ecb,en,0,unknown,0,1,['EconomicBulletin']
+ecb,en,0,finance expert,0,0,
+ecb,en,0,finance expert,0,0,['TheECBPodcast']
+katieranger_,0,0,0,0,0,0
+ecb,en,0,finance expert,0,1,
+Lagarde,0,0,0,0,0,0
+Europarl_EN,0,0,0,0,0,0
+ecb,en,0,unknown,0,1,['TheECBblog']
+centralbank_ie,0,0,0,0,0,0
+ecb,en,1,unknown,0,1,['ValentinesDay']
+ecb,en,0,supporter,0,1,['EconomicBulletin']
+ecb,en,0,finance expert,0,1,['EconomicBulletin']
+ecb,en,0,critic,0,1,['AskECB']
+ecb,en,0,unknown,0,1,['AskECB']
+ecb,en,0,supporter,0,1,['AskECB']
+ecb,en,0,finance expert,0,1,['AskECB']
+ecb,en,0,critic,0,0,['AskECB']
+fwred,0,0,0,0,0,0
+JanBerka8,0,0,0,0,0,0
+ecb,en,0,analyst,0,1,['AskECB']
+pietphc,0,0,0,0,0,0
+xadarcy,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,['AskECB']
+ReclaimFinance,0,0,0,0,0,0
+stanjourdan,0,0,0,0,0,0
+ecb,en,0,unknown,0,1,"['NGEU', 'AskECB']"
+ecb,en,0,unknown,0,1,"['StandWithUkraine', 'AskECB']"
+ecb,en,0,politics,0,1,"['fossilfation', 'greenflation', 'AskECB']"
+ecb,de,0,unknown,0,1,['AskECB']
+NGFS_,0,0,0,0,0,0
+SZ,0,0,0,0,0,0
+ecb,en,0,curious,0,0,['TheECBPodcast']
+ecb,en,0,politics,0,1,
+FrankElderson,0,0,0,0,0,0
+ecb,en,0,critic,0,0,
+ecb,en,0,analyst,0,1,['ECBForum']
+finanzwende,0,0,0,0,0,0
+ecb,en,0,curious,0,1,['TheECBblog']
+ecb,fr,0,unknown,0,1,
+ecb,nl,0,unknown,0,1,
+ecb,es,0,unknown,0,1,
+ecb,de,0,unknown,0,1,
+ecb,it,0,unknown,0,1,
+ecb,en,0,unknown,0,1,['TheECBPodcast']
+EBA_News,0,0,0,0,0,0
+jeuasommenulle,0,0,0,0,0,0
+ecb,en,0,unknown,0,1,['ECBForum']
+handelsblatt,0,0,0,0,0,0
+EP_Economics,0,0,0,0,0,0
+BankofGreece,0,0,0,0,0,0
+ecb,en,0,finance expert,0,1,['TheECBblog']
+FT,0,0,0,0,0,0
+ecb,en,0,politics,0,1,['EconomicBulletin']
+riksbanken,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,['TheECBPodcast']
+ecb,en,0,unknown,0,0,['TheECBPodcast']
+LSEnews,0,0,0,0,0,0
+ecb,en,0,critic,0,0,['TheECBPodcast']
+ecb,en,0,finance expert,0,1,['TheECBPodcast']
+ecb,en,0,politics,0,1,['TheECBblog']
+ecb,en,0,unknown,0,1,['Explainer']
+ecb,en,0,finance expert,0,1,['Explainer']
+ecb,en,0,unknown,0,0,['Explainer']
+ecb,hr,0,unknown,0,1,
+HNB_HR,0,0,0,0,0,0
+ecb,en,0,unknown,0,1,"['TheECBPodcast', 'SpotifyWrapped']"
+CEAJE,0,0,0,0,0,0
+ecb,en,0,supporter,0,1,
+FAZ_NET,0,0,0,0,0,0
+lemondefr,0,0,0,0,0,0
+ecb,en,0,supporter,0,1,['TheECBPodcast']
+Eva_M_Taylor,0,0,0,0,0,0
+ecb,en,0,unknown,0,1,['TheECBBlog']
+AmerBanker,0,0,0,0,0,0
+CBD_COP15,0,0,0,0,0,0
+BaFin_Bund,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,['ProudToBeNGFS']
+LBS,0,0,0,0,0,0
+EUI_FBF_School,0,0,0,0,0,0
+MilanoFinanza,0,0,0,0,0,0
+JohnPCFell,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['AnnualConference']
+ESRB,0,0,0,0,0,0
+EUI_EU,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,['Eurobarometer']
+ecb,en,1,finance expert,0,0,['TheECBblog']
+IMFNews,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,
+ecb,en,0,supporter,0,0,"['OrangeTheWorld', 'EndViolence']"
+UN,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['TheECBBlog']
+sole24ore,0,0,0,0,0,0
+MNIMarketnews,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,['TheECBblog']
+imf_podcast,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,['TheECBblog']
+ecb,en,0,politics,0,0,
+ECB_Research,0,0,0,0,0,0
+DNB_NL,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,['ARCPolak']
+BankaSlovenije,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['EconomicBulletin']
+ecb,0,0,0,0,0,0
+EU_Commission,0,0,0,0,0,0
+politico,0,0,0,0,0,0
+EestiPank,0,0,0,0,0,0
+nationalbanken,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['TheSupervisionBlog']
+dlfkultur,0,0,0,0,0,0
+DelfiLV,0,0,0,0,0,0
+ecb,es,0,unknown,0,0,
+ecb,nl,0,unknown,0,0,
+ecb,it,0,unknown,0,0,
+ecb,de,0,unknown,0,0,
+ecb,fr,0,unknown,0,0,
+ecb,en,0,unknown,0,0,['TheECBblog']
+Unibocconi,0,0,0,0,0,0
+DeutscheBank,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,"['EUDatathon', 'EUopendata']"
+vzinios,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,['TheECBblog']
+ecb,en,0,unknown,0,0,['IMFMeetings']
+suerf_org,0,0,0,0,0,0
+ForoLaToja,0,0,0,0,0,0
+ClevelandFed,0,0,0,0,0,0
+Lietuvosbankas,0,0,0,0,0,0
+GreensEFA,0,0,0,0,0,0
+derStandardat,0,0,0,0,0,0
+DrDanielRisch,0,0,0,0,0,0
+ecb,en,0,curious,0,0,
+bundesbank,0,0,0,0,0,0
+tonline,0,0,0,0,0,0
+ecb,en,0,politics,0,0,['EconomicBulletin']
+ecb,en,0,finance expert,0,0,['EconomicBulletin']
+RobertShortt,0,0,0,0,0,0
+rtenews,0,0,0,0,0,0
+ecb,da,0,finance expert,0,0,
+expresso,0,0,0,0,0,0
+paulkrugman,0,0,0,0,0,0
+LHSummers,0,0,0,0,0,0
+JeanTirole,0,0,0,0,0,0
+cepr_org,0,0,0,0,0,0
+rtve,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['EuropaOpenAir', 'HRSinfonieOrchester', 'HRBigBand']"
+ecb,en,0,unknown,0,0,['CEBRA22']
+CebraOrg,0,0,0,0,0,0
+BancoDeEspana,0,0,0,0,0,0
+bse_barcelona,0,0,0,0,0,0
+SAFE_Frankfurt,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['JacksonHole2022']
+KansasCityFed,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['hrSinfonieorchester']
+Reuters,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,['InternationalYouthDay']
+postimees,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['DrivingChangeTogether']
+ESRBofficial,0,0,0,0,0,0
+GabrielGlockler,0,0,0,0,0,0
+ecb,ro,0,unknown,0,0,
+MisterSpread,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['Pride', 'ChristopherStreetDay']"
+ecb,en,0,unknown,0,0,['digitaleuro']
+ecb,en,0,finance expert,0,0,['REAix2022']
+ecb,en,0,unknown,0,0,['GFP2022']
+OECD,0,0,0,0,0,0
+ecfin,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,['ECBForum']
+fkocheng,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['ECBForum']
+ecb,en,0,finance expert,0,0,['ECBForum']
+helene_rey,0,0,0,0,0,0
+ecb,en,0,curious,0,0,['ECBForum']
+ecb,en,0,unknown,0,0,['SRBECB2022']
+ecb,en,0,critic,0,0,['SRBECB2022']
+kbc_group,0,0,0,0,0,0
+SRB,0,0,0,0,0,0
+McGuinnessEU,0,0,0,0,0,0
+mediobanca,0,0,0,0,0,0
+EPC_SEPA,0,0,0,0,0,0
+Dein_SPIEGEL,0,0,0,0,0,0
+SorbonneParis1,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['WeRemember']
+VDombrovskis,0,0,0,0,0,0
+CincoDiascom,0,0,0,0,0,0
+bernacerprize,0,0,0,0,0,0
+FinStbBoard,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['SGEuropa', 'SGE', 'UELfinal']"
+Eintracht,0,0,0,0,0,0
+EuropaLeague,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['IDAHOBIT']
+NCIRL,0,0,0,0,0,0
+Paschald,0,0,0,0,0,0
+malcolmbyrne,0,0,0,0,0,0
+Siria_Angino,0,0,0,0,0,0
+ertofficial_,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,['EUDatathon']
+iesebschool,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['EuropeDay']
+Delo,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['AskECB']
+MyStephanomics,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,"['bitcoin', 'AskECB']"
+ecb,en,0,supporter,0,0,['AskECB']
+ecb,en,0,unknown,0,0,"['EconomicBulletin', 'AskECB']"
+ecb,en,0,analyst,0,0,['AskECB']
+mariademertzis,0,0,0,0,0,0
+Bruegel_org,0,0,0,0,0,0
+LaStampa,0,0,0,0,0,0
+ecb,uk,0,unknown,0,0,
+NBUkraine,0,0,0,0,0,0
+KyryloShevchen1,0,0,0,0,0,0
+EDRRheinMain,0,0,0,0,0,0
+EU_SRB,0,0,0,0,0,0
+Vocento,0,0,0,0,0,0
+Columbia,0,0,0,0,0,0
+PIIE,0,0,0,0,0,0
+business,0,0,0,0,0,0
+delphi_forum,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['EFSIR']
+ANT1TV,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,['Ambrosetti']
+CNBC,0,0,0,0,0,0
+Room4Discussion,0,0,0,0,0,0
+UvA_Amsterdam,0,0,0,0,0,0
+PSEinfo,0,0,0,0,0,0
+POLITICOEurope,0,0,0,0,0,0
+JohannaTreeck,0,0,0,0,0,0
+suzannelynch1,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['EarthHour2022']
+philenewscy,0,0,0,0,0,0
+TiloJung,0,0,0,0,0,0
+JungNaiv,0,0,0,0,0,0
+TheBusinessRTE,0,0,0,0,0,0
+ecb,en,0,conspiracy theorist,0,0,
+iiea,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,['GlobalMoneyWeek2022']
+GlobalMoneyWeek,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['VoicesforActionAgainstRacism', 'FightRacism']"
+ecb,en,0,unknown,0,0,['ECBwatchers']
+EBI_EU,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['IWD2022']
+ecb,en,0,unknown,0,0,"['TheECBPodcast', 'IWD2022', 'BreakTheBias']"
+HmsGerlach,0,0,0,0,0,0
+thehertieschool,0,0,0,0,0,0
+BIS_org,0,0,0,0,0,0
+ecb,unknown,0,unknown,0,0,
+ecb,en,0,analyst,0,0,['bearconf2022']
+bankofengland,0,0,0,0,0,0
+faznet,0,0,0,0,0,0
+PabloPerezA,0,0,0,0,0,0
+EBFeu,0,0,0,0,0,0
+bancosantander,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,"['NextGenerationEU', 'EconomicBulletin']"
+ecb,en,0,unknown,0,0,['EUROat20']
+ecb,en,0,analyst,0,0,['InternationalDayofWomenandGirlsinScience']
+RND_de,0,0,0,0,0,0
+ecb,en,0,politics,0,0,['AskECB']
+ecb,de,0,unknown,0,0,['AskECB']
+ecb,en,0,finance expert,0,0,['EUIndustryDays']
+ecb,en,0,analyst,0,0,['DataProtectionDay']
+ecb,en,0,unknown,0,0,"['HolocaustRemembranceDay', 'WeWillNeverForget']"
+drkaenzig,0,0,0,0,0,0
+federalreserve,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['ECBStrategyReview']
+LesEchos,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['Ostend', 'EUROat20']"
+ASSAMeeting,0,0,0,0,0,0
+RaphAuer,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['TheECBPodcast', 'spotifywrapped']"
+FD_Nieuws,0,0,0,0,0,0
+ecb,da,0,unknown,0,0,
+FIN_FSA,0,0,0,0,0,0
+ecb,en,0,curious,0,0,['EUROat20']
+ecb,en,0,unknown,0,0,['BaselCommittee']
+FedercasseBCC,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['ReutersNext']
+ecb,en,0,unknown,0,0,['InternationalDayofPersonswithDisabilities']
+AliceDoyard,0,0,0,0,0,0
+morgenmagazin,0,0,0,0,0,0
+ZDF,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['orangetheworld']
+carolynnlook,0,0,0,0,0,0
+weberalexander,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['newdesign']
+bancodeportugal,0,0,0,0,0,0
+TARGET_ECB,0,0,0,0,0,0
+ecb,en,0,critic,0,0,"['TheECBPodcast', 'ECBForum']"
+NewYorkFed,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,['EconomicBulletin']
+MariaTD,0,0,0,0,0,0
+SuomenPankki,0,0,0,0,0,0
+BOFITresearch,0,0,0,0,0,0
+RichardClarida,0,0,0,0,0,0
+BrookingsInst,0,0,0,0,0,0
+benbernanke,0,0,0,0,0,0
+el_pais,0,0,0,0,0,0
+rielcano,0,0,0,0,0,0
+COP26,0,0,0,0,0,0
+EC3Europol,0,0,0,0,0,0
+UniofOxford,0,0,0,0,0,0
+flacqua,0,0,0,0,0,0
+BloombergTV,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['COP26']
+ecb,en,0,unknown,0,0,['FINFSAConf']
+ecb,en,0,unknown,0,0,['EBA10yEARS']
+ecb,en,0,analyst,0,0,['EuropeanStatisticsDay']
+ecb,en,0,unknown,0,0,['GlobalEthicsDay']
+FMA_AT,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['AskECB', 'EYE2021']"
+Europarl_EYE,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,"['AskECB', 'EYE2021']"
+senoj_erialc,0,0,0,0,0,0
+LeonelSacko,0,0,0,0,0,0
+GitaGopinath,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['ECBForum', 'TheECBPodcast']"
+aagalloni,0,0,0,0,0,0
+LatvijasBanka,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,"['EUdatadays', 'EUDatathon']"
+DM_Rubenstein,0,0,0,0,0,0
+IMFS_Frankfurt,0,0,0,0,0,0
+isabelsabine,0,0,0,0,0,0
+wef,0,0,0,0,0,0
+ProfKlausSchwab,0,0,0,0,0,0
+elconfidencial,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,['EconomicBulletin']
+VirologyBochum,0,0,0,0,0,0
+Corriere,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['Tokyo2020', 'Olympics']"
+vonderleyen,0,0,0,0,0,0
+USTreasury,0,0,0,0,0,0
+SecYellen,0,0,0,0,0,0
+ecb,en,1,unknown,0,0,
+nicolas_veron,0,0,0,0,0,0
+eiopa_europa_eu,0,0,0,0,0,0
+kingsbschool,0,0,0,0,0,0
+laprovence,0,0,0,0,0,0
+UCYOfficial,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,"['EUDatathon', 'EUOpenDataDays']"
+AUEB,0,0,0,0,0,0
+FinancialTimes,0,0,0,0,0,0
+ecb,en,0,politics,0,0,['TheECBPodcast']
+pgordon66,0,0,0,0,0,0
+AFME_EU,0,0,0,0,0,0
+OMFIF,0,0,0,0,0,0
+DianaUrge,0,0,0,0,0,0
+ceu,0,0,0,0,0,0
+Stanford,0,0,0,0,0,0
+MESandbu,0,0,0,0,0,0
+EBRD,0,0,0,0,0,0
+ecb,en,0,politics,0,0,['NextGenerationEU']
+florianeder,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['EURO2020']
+ecb,en,0,unknown,0,0,['GreenSwanConference']
+banquedefrance,0,0,0,0,0,0
+ForumNewEconomy,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,['DublinClimateDialogues']
+ecb,en,0,finance expert,0,0,['TheECBBlog']
+ecb,en,0,unknown,0,0,['FutureofEurope']
+EUCouncil,0,0,0,0,0,0
+EIB,0,0,0,0,0,0
+EU_CoR,0,0,0,0,0,0
+EU_EESC,0,0,0,0,0,0
+eu_eeas,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['EuropeDay', 'EuropeDay']"
+dise_tv,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['strategyreview', 'AskECB']"
+ecb,en,0,critic,0,0,"['strategyreview', 'AskECB']"
+sven_giegold,0,0,0,0,0,0
+SVR_Wirtschaft,0,0,0,0,0,0
+CNBCClosingBell,0,0,0,0,0,0
+derspiegel,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['Frankfurt', 'EarthHour']"
+ecb,en,0,curious,0,0,['EconomicBulletin']
+AnnetteCNBC,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['EconCroatia']
+ecb,en,0,unknown,0,0,['FightRacism']
+MorganStanley,0,0,0,0,0,0
+ecb,en,0,politics,0,0,"['strategyreview', 'AskECB']"
+ecb,en,0,finance expert,0,0,"['strategyreview', 'AskECB']"
+ecb,en,0,analyst,0,0,"['EUOpenDataDays', 'EUdatathon']"
+ecb,en,0,unknown,0,0,"['TheECBPodcast', 'IWD2021', 'choosetochallenge']"
+ecb,en,0,curious,0,0,['IWD2021']
+ecb,en,0,unknown,0,0,['InternationalWomensDay']
+ecb,en,0,supporter,0,0,"['InternationalWomensDay', 'choosetochallenge', 'IWD2021']"
+iesealumni,0,0,0,0,0,0
+letanewslv,0,0,0,0,0,0
+michaelsteen,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,['research']
+cetier1,0,0,0,0,0,0
+ecb,en,1,unknown,0,0,"['ECBmyvalentine', 'ValentinesDay']"
+zannymb,0,0,0,0,0,0
+TheEconomist,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,"['ECBListens', 'ECBListens']"
+ecb,en,0,unknown,0,0,['pfpf2021']
+fiscalcouncil,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,['statistics']
+ThierryArnaud,0,0,0,0,0,0
+BFMTV,0,0,0,0,0,0
+LSE_GermanSoc,0,0,0,0,0,0
+skaigr,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['NeverAgain']
+ecb,en,1,curious,0,0,
+LorcanRK,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,['ReutersNext']
+ecb,en,0,analyst,0,0,['digitaleuro']
+martinwolf_,0,0,0,0,0,0
+LiikanenErkki,0,0,0,0,0,0
+finanzfluss,0,0,0,0,0,0
+boersenzeitung,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['ECBstrategyreview', 'ECBYouthDialogue']"
+UniCologne,0,0,0,0,0,0
+ECON_tribute,0,0,0,0,0,0
+Iwp_Uni_Koeln,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,"['ECBYouthDialogue', 'coronavirus']"
+ecb,en,0,curious,0,0,['AskECB']
+EU_Eurostat,0,0,0,0,0,0
+laeven_luc,0,0,0,0,0,0
+gschepen,0,0,0,0,0,0
+his_hamburg,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,['RIF2020']
+PenaHakkarainen,0,0,0,0,0,0
+ecb,el,0,unknown,0,0,
+ecb,fi,0,unknown,0,0,
+hsfi,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,"['ingesprekmetdnb', 'ECBstrategyreview']"
+tcdeconomics,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['OrangeTheWorld']
+ecb,en,0,unknown,0,0,['coronavirus']
+ecb,en,0,unknown,0,0,['MonetaryPolicyChallenges']
+ISDA,0,0,0,0,0,0
+ecb,hr,0,unknown,0,0,
+ecb,bg,0,unknown,0,0,
+ecb,en,0,unknown,0,0,"['ECBForum', 'ECBForum']"
+EconBitsStrings,0,0,0,0,0,0
+IIF,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['EncuentroFinanciero']
+ecb,es,0,unknown,0,0,['EncuentroFinanciero']
+rtppt,0,0,0,0,0,0
+eurofinanceweek,0,0,0,0,0,0
+khalafroula,0,0,0,0,0,0
+ecb,en,0,critic,0,0,['ECBForum']
+ecb,en,0,unknown,0,0,['PIIEFinancialStatements']
+ecb,en,0,analyst,0,0,['ECBListens']
+Payvolution,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['ECBListens']
+Youth_Forum,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,['youngeconomists']
+ecb,ro,0,politics,0,0,
+ecb,en,0,unknown,0,0,"['ECBListens', 'ECBstrategyreview']"
+ecb,en,0,politics,0,0,"['ECBListens', 'ECBstrategyreview']"
+mvanhulten,0,0,0,0,0,0
+actforculture,0,0,0,0,0,0
+tbadtod,0,0,0,0,0,0
+PositiveMoneyEU,0,0,0,0,0,0
+ShareAction,0,0,0,0,0,0
+wokuhn,0,0,0,0,0,0
+Adam_Pawloff,0,0,0,0,0,0
+lordstern1,0,0,0,0,0,0
+SchmalzriedMar1,0,0,0,0,0,0
+sorcha_edwards,0,0,0,0,0,0
+DariusRochebin,0,0,0,0,0,0
+LCI,0,0,0,0,0,0
+ntvde,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,"['TheECBBlog', 'WorldStatisticsDay']"
+RobertMAnderton,0,0,0,0,0,0
+sam_clements,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['ECBstrategyreview', 'ECBListens']"
+ecb,en,0,unknown,0,0,['NABE2020']
+LaravmVivian,0,0,0,0,0,0
+ecb,en,0,curious,0,0,['TheECBBlog']
+ecb,en,0,unknown,0,0,"['NextGenerationEU', 'AskECB']"
+ecb,en,0,finance expert,0,0,"['coronavirus', 'EconomicBulletin']"
+larazon_es,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['GlobalIreland']
+ecb,en,0,supporter,0,0,['NextGenerationEU']
+Economist_SEUR,0,0,0,0,0,0
+NGFS,0,0,0,0,0,0
+richimcmahon,0,0,0,0,0,0
+Neclis,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,['TheECBBlog']
+ecb,en,0,unknown,0,0,"['backtoschool', 'economics', 'ecb']"
+ecb,en,0,analyst,0,0,['TheECBPodcast']
+ecb,en,0,unknown,0,0,['JacksonHole2020']
+UMich,0,0,0,0,0,0
+bankofcanada,0,0,0,0,0,0
+MAS_sg,0,0,0,0,0,0
+steveliesman,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['YouthDay']
+UN4Youth,0,0,0,0,0,0
+UNDESASocial,0,0,0,0,0,0
+Greenpeace,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['ECBListensPortal']
+ecb,en,0,unknown,0,0,['containmentmeasures']
+ecb,en,0,unknown,0,0,"['EconomicBulletin', 'coronavirus']"
+ecb,en,0,supporter,0,0,"['globalvaluechains', 'EconomicBulletin']"
+repubblica,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,['cyber']
+Harvard_Law,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,['ResearchBulletin']
+cstaikouras,0,0,0,0,0,0
+expansioncom,0,0,0,0,0,0
+maiguashca,0,0,0,0,0,0
+HyunSongShin,0,0,0,0,0,0
+SoumayaKeynes,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['ChristopherStreetDay', 'Pride', 'diversity']"
+MarkusGuerne,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['ESM']
+nrc,0,0,0,0,0,0
+ESM_Press,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,['BISInnovationHub']
+filpet4,0,0,0,0,0,0
+FMFdigital,0,0,0,0,0,0
+PrincetonBCF,0,0,0,0,0,0
+ecb,en,0,curious,0,0,"['coronavirus', 'EconomicBulletin']"
+ecb,en,0,politics,0,0,"['coronavirus', 'EconomicBulletin']"
+ecb,en,0,supporter,0,0,"['EMU', 'EconomicBulletin', 'euro']"
+drivetimerte,0,0,0,0,0,0
+ecb,en,0,critic,0,0,"['PEPP', 'AskECB']"
+adam_tooze,0,0,0,0,0,0
+Shahinvallee,0,0,0,0,0,0
+FrancescoPapad1,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,"['PEPP', 'AskECB']"
+ecb,en,0,supporter,0,0,"['QE', 'AskECB']"
+MediasetTgcom24,0,0,0,0,0,0
+Radio1Rai,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['Scholarship', 'economics']"
+ecb,en,0,supporter,0,0,['coronavirus']
+ecb,en,0,finance expert,0,0,['coronavirus']
+ecb,en,0,finance expert,0,0,['podcast']
+ecb,en,0,critic,0,0,"['AskECB', 'EYE2020']"
+economicssummit,0,0,0,0,0,0
+ecb,it,0,unknown,0,0,['RCSAcademy']
+ecb,en,0,unknown,0,0,"['coronavirus', 'podcast', 'TheECBPodcast']"
+ecb,en,0,unknown,0,0,"['AskECB', 'EYE2020']"
+elmundoes,0,0,0,0,0,0
+unav,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['genderbalance']
+ecb,en,0,unknown,0,0,['gendertargets']
+ecb,en,0,unknown,0,0,"['coronavirus', 'EconomicBulletin']"
+ecb,en,0,critic,0,0,"['coronavirus', 'EconomicBulletin']"
+ecb,en,0,unknown,0,0,['FTGlobalBoardroom']
+ESADE,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,"['EconomicBulletin', 'negativeinterestrates']"
+ecb,en,0,supporter,0,0,"['coronavirus', 'EconomicBulletin']"
+ecb,en,0,unknown,0,0,['SOUCOVID19']
+ecb,en,0,analyst,0,0,"['economics', 'annualreport', 'ecb']"
+ecb,en,0,finance expert,0,0,"['coronavirus', 'EUvsVirus', 'StrongerTogether']"
+ecb,en,0,unknown,0,0,['Corpgov']
+LucreziaReichli,0,0,0,0,0,0
+ecgiorg,0,0,0,0,0,0
+ecb,af,0,unknown,0,0,
+ecb,en,0,unknown,0,0,"['climatechange', 'EconomicBulletin']"
+ecb,en,0,finance expert,0,0,"['corporatetax', 'EconomicBulletin']"
+ecb,en,0,unknown,0,0,"['EconomicBulletin', 'g20', 'tax']"
+ecb,en,0,analyst,0,0,"['textanalysis', 'EconomicBulletin']"
+tcddublin,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['Podcast']
+ecb,en,0,finance expert,0,0,"['genderequity', 'economics', 'finance', 'ecb']"
+ecb,en,0,unknown,0,0,"['WomeninSTEM', 'ClimateChange']"
+ecb,en,0,unknown,0,0,['Brexit']
+ecb,en,0,finance expert,0,0,['Brexit']
+MirjamWenzel,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['holocaust', 'WeRemember']"
+ecb,en,0,unknown,0,0,['WEF20']
+ecb,en,0,curious,0,0,"['ECBtrainee', 'ecb']"
+ecb,en,0,critic,0,0,['Podcast']
+Challenges,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['happynewyear']
+ecb,en,0,supporter,0,0,['EUROat20']
+ecb,en,0,unknown,0,0,"['seasonsgreetings', 'christmastree']"
+ecb,en,0,unknown,0,0,['ECBYouthDialogue']
+SapienzaRoma,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,['ECBYouthDialogue']
+ecb,en,0,unknown,0,0,['coding']
+ecb,en,0,politics,0,0,['ECBYouthDialogue']
+ecb,en,0,politics,0,0,"['ECBYouthDialogue', 'ECBYouthDialogue']"
+ecb,en,0,critic,0,0,['ECBYouthDialogue']
+ecb,en,0,unknown,0,0,['EUGreenDeal']
+ecb,en,0,supporter,0,0,['Podcast']
+ecb,en,0,unknown,0,0,['podcast']
+NBB_BNB_NL,0,0,0,0,0,0
+NBB_BNB_FR,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['climatechange']
+ecb,en,0,unknown,0,0,['FortuneGlobalForum']
+ecb,en,0,unknown,0,0,['euro20plus']
+ecb,en,0,unknown,0,0,"['gender', 'equality', 'economics']"
+ecb,en,0,unknown,0,0,"['ECBForum', 'EUROat20']"
+ecb,en,0,unknown,0,0,['whateverittakes']
+ecb,en,0,analyst,0,0,"['gender', 'economics', 'womenineconomics']"
+EmmanuelMacron,0,0,0,0,0,0
+Quirinale,0,0,0,0,0,0
+nbppl,0,0,0,0,0,0
+MKTWgoldstein,0,0,0,0,0,0
+isabelschnabel,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,['IMFMeetings']
+KGeorgieva,0,0,0,0,0,0
+1sakhtar,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,['GlobalEthicsDay']
+EUauditors,0,0,0,0,0,0
+EUombudsman,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,['GlobalEthicsDay']
+ecb,en,0,finance expert,0,0,"['IMFMeetings', 'ClimateFinance']"
+davidmwessel,0,0,0,0,0,0
+Unicatt,0,0,0,0,0,0
+ChimientiTeresa,0,0,0,0,0,0
+skyliners1999,0,0,0,0,0,0
+ckcedric,0,0,0,0,0,0
+ecb,de,0,unknown,0,0,['TürenAuf']
+DieMaus,0,0,0,0,0,0
+ecb,en,0,curious,0,0,['TürenAuf']
+ecb,pt,0,unknown,0,0,
+MarioMoratalla,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['EuroSTR']
+ecb,ca,0,unknown,0,0,
+Percy_Blooms,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['EDLangs', 'EuropeanDayofLanguages', 'EDoL']"
+ecb,en,0,unknown,0,0,['instantpayments']
+Sibos,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,"['EONIA', 'EuroSTR']"
+Susan_Athey,0,0,0,0,0,0
+ecb,de,0,finance expert,0,0,
+ecb,en,0,unknown,0,0,"['EuropaOpenAir', 'HRSinfonieOrchester', 'HRBigBand', 'EuropeanCulturalDays']"
+ecb,en,0,unknown,0,0,"['EuropeanCulturalDays', 'Euroat20']"
+ecb,en,0,unknown,0,0,['EuropeanCulturalDays']
+ecb,en,0,unknown,0,0,['TürenAuf']
+ecb,en,0,analyst,0,0,['bitcoin']
+ecb,en,0,unknown,0,0,"['EONIA', 'EuroSTR']"
+ecb,en,0,unknown,0,0,['ECOFIN']
+ecb,en,0,unknown,0,0,['pride']
+ecb,en,0,unknown,0,0,"['ICCWorldCup2019', 'CWC19']"
+ecb,en,0,unknown,0,0,"['LiverpoolFC', 'youllneverwalkalone', 'LFC', 'AskECB']"
+feuerwehrffm,0,0,0,0,0,0
+Polizei_Ffm,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['fintech']
+ecb,pt,0,unknown,0,0,['ECBYouthDialogue']
+ecb,en,0,unknown,0,0,['ECBCreativeSessions']
+dannyjhawk,0,0,0,0,0,0
+ecb,en,0,curious,0,0,['NewBanknotes']
+ecb,en,0,analyst,0,0,"['ECBForum', 'EUROat20']"
+JunckerEU,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['ECBForum', 'Euroat20']"
+ojblanchard1,0,0,0,0,0,0
+ecb,en,0,critic,0,0,"['ECBForum', 'EUROat20']"
+ecb,en,0,analyst,0,0,['EconCartography']
+ecb,en,0,unknown,0,0,['AnneFrank']
+ecb,en,0,analyst,0,0,"['Fintech', 'DLT']"
+ecb,lt,0,unknown,0,0,
+ecb,en,0,supporter,0,0,['climatechange']
+ecb,en,0,unknown,0,0,"['bitcoin', 'blockchain']"
+ecb,en,0,unknown,0,0,['NewBanknotes']
+VisualPolitik,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['ClimateChange']
+ecb,id,0,unknown,0,0,
+howardjp,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['IDAHOT2019', 'ECB']"
+ecb,en,0,analyst,0,0,['fintech']
+ecb,en,0,unknown,0,0,"['climatechange', 'NGFS']"
+ecb,en,0,unknown,0,0,"['ClimateChange', 'Brexit']"
+ecb,en,1,critic,0,0,"['ECBYouthDialogue', 'GenerationEuro']"
+ecb,en,0,unknown,0,0,"['ECBYouthDialogue', 'GenerationEuro']"
+ecb,en,0,critic,0,0,['GenerationEuro']
+ecb,en,0,critic,0,0,"['GenerationEuro', 'ECBYouthDialogue']"
+ecb,en,0,unknown,0,0,['EUopenday']
+ecb,en,0,unknown,0,0,"['Frankfurt', 'Europe', 'FRACHE']"
+ecb,en,0,finance expert,0,0,['blockchain']
+arjun1224,0,0,0,0,0,0
+ecb,en,1,unknown,0,0,"['Avengers', 'WhateverItTakes']"
+MirrorPolitics,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['NotreDameCathedralFire']
+ecb,fr,0,unknown,0,0,['NotreDame']
+ecb,fr,0,unknown,0,0,['IMFMeetings']
+ecb,en,0,unknown,0,0,"['EarthHour', 'Connect2Earth']"
+BenjaminHartung,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,"['InstantPayments', 'TIPS', 'Fintech']"
+ecb,en,0,politics,0,0,['EUopendata']
+ecb,it,0,unknown,0,0,['ECBYouthDialogue']
+ecb,en,0,finance expert,0,0,['ECBYouthDialogue']
+jphlacour,0,0,0,0,0,0
+ramontremosa,0,0,0,0,0,0
+pedroantoniak,0,0,0,0,0,0
+Paolo_Guida,0,0,0,0,0,0
+patrikakis,0,0,0,0,0,0
+ecb,en,1,unknown,0,0,['AskECB']
+ecb,tl,0,unknown,0,0,['AskECB']
+ecb,en,0,unknown,0,0,"['genderequality', 'BalanceForBetter', 'IWD2019']"
+ecb,fr,0,unknown,0,0,['LetsTalkEurope']
+UE_Luxembourg,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['LetsTalkEurope']
+ecb,en,0,unknown,0,0,"['BalanceforBetter', 'IWD2019']"
+ecb,en,0,unknown,0,0,"['EUROat20', 'EUHaveYourSay']"
+ecb,en,0,critic,0,0,['EUROat20']
+maginteractive,0,0,0,0,0,0
+agitpops,0,0,0,0,0,0
+JEF_Europe,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['ValentinesDay']
+JeunesEuropeens,0,0,0,0,0,0
+JEFBelgium,0,0,0,0,0,0
+JEF_de,0,0,0,0,0,0
+GFE_JefItaly,0,0,0,0,0,0
+JEFSpain,0,0,0,0,0,0
+Eurooppanuoret,0,0,0,0,0,0
+europeiskungdom,0,0,0,0,0,0
+youngeuromove,0,0,0,0,0,0
+EuropaeiskUngDK,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['ValentinesDay', 'ILoveYouLike']"
+TheEgeEye,0,0,0,0,0,0
+hrinfo,0,0,0,0,0,0
+ecb,en,0,analyst,0,0,"['ESTER', 'EONIA']"
+ecb,en,0,unknown,0,0,"['GreatestHits', 'draghitieguesses', 'EUROat20']"
+ECB_cricket,0,0,0,0,0,0
+ecb,en,0,curious,0,0,['ECBtrainees']
+BitcoinRat,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,['EUROat20']
+nickcoatesnes,0,0,0,0,0,0
+SantAnnaPisa,0,0,0,0,0,0
+ecb,en,0,supporter,0,0,['EthicalHacking']
+TEDx,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['banknotes']
+ecb,en,0,unknown,0,0,"['Luminale2018', 'crosshatch']"
+ecb,en,0,critic,0,0,['AskDraghi']
+ecb,en,0,unknown,0,0,['ethicalhacking']
+MihneaConst,0,0,0,0,0,0
+AtlantaFed,0,0,0,0,0,0
+ChicagoFed,0,0,0,0,0,0
+MinneapolisFed,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['EuroVideoChallenge']
+ecb,en,0,analyst,0,0,['EUROat20']
+ecb,en,0,unknown,0,0,['TIPS']
+MichaelManfield,0,0,0,0,0,0
+ecb,sv,0,unknown,0,0,
+Yunus_Centre,0,0,0,0,0,0
+ecb,de,0,unknown,0,0,['ECBYouthDialogue']
+FrankfurtSchool,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['FridayFeeling', 'ECBYouthDialogue']"
+ecb,en,0,unknown,0,0,"['FourEyesPrinciple', 'ECBYouthDialogue']"
+ecb,en,0,unknown,0,0,['digitaltransformation']
+ecb,en,0,unknown,0,0,['digitalisation']
+ecb,en,0,finance expert,0,0,['Digitalisation']
+SolvayEDU,0,0,0,0,0,0
+TSEinfo,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['HappyHalloween']
+ecb,en,0,analyst,0,0,['Halloween']
+ecb,en,0,unknown,0,0,['Halloween']
+ecb,en,0,finance expert,0,0,['Halloween']
+ecb,en,0,unknown,0,0,"['EthicalHacking', 'UniMannheim']"
+ecb,en,0,unknown,0,0,['EuropeanStatisticsDay']
+ecb,en,0,unknown,0,0,['AI']
+ecb,en,0,analyst,0,0,"['ArtificialIntelligence', 'AI']"
+ecb,en,0,unknown,0,0,"['instantpayments', 'TIPS']"
+ecb,en,0,unknown,0,0,['blackandwhitechallenge']
+ecb,en,0,unknown,0,0,['GenerationEuro']
+ecb,de,0,unknown,0,0,['türenauf']
+ecb,en,0,curious,0,0,['türenauf']
+ecb,en,0,unknown,0,0,['PressForParity']
+ecb,en,0,unknown,0,0,['CESS2018']
+cess2018,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['EuropeanDayofLanguages', 'EDLangs']"
+ecb,en,0,curious,0,0,"['EuropeanDayofLanguages', 'EDLangs']"
+rodrikdani,0,0,0,0,0,0
+ecb,en,0,curious,0,0,"['new100', 'new200', 'NewBanknotes']"
+ecb,en,0,unknown,0,0,['türenauf']
+ecb,en,0,unknown,0,0,['PeaceDay']
+ecb,en,0,unknown,0,0,"['MobilityWeek', 'MixAndMove']"
+ecb,en,0,unknown,0,0,['Ploughing18']
+NPAIE,0,0,0,0,0,0
+SteveSimsNews,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['new100', 'new200', 'NewBanknotes']"
+ecb,en,0,unknown,0,0,"['new100', 'new200']"
+ecb,en,0,unknown,0,0,['ESTER']
+BedrosGesaratsi,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['EuropeanCulturalDays', 'EuropaOpenAir']"
+ecb,en,0,politics,0,0,"['EONIA', 'ESTER']"
+KennethVermeul3,0,0,0,0,0,0
+ecb,en,0,curious,0,0,"['visitECB', 'YouthDay']"
+ecb,en,0,unknown,0,0,"['ECBYouthDialogue', 'ECBForum', 'EuroVideoChallenge', 'Generationeuro', 'YouthDay']"
+ecb,en,0,unknown,0,0,"['YouthDay', 'FutureofEurope']"
+realDonaldTrump,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['EONIA']
+ECBForum,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,['MSMEDay']
+marccwr,0,0,0,0,0,0
+Ripple,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['TIPS', 'TIPS']"
+gianiperetti,0,0,0,0,0,0
+hroptatyr,0,0,0,0,0,0
+simonoxfphys,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['ECB']
+ecb,en,0,curious,0,0,['ECB']
+ecb,lv,0,unknown,0,0,
+ecb,en,0,unknown,0,0,['EUOpenDay']
+ecb,en,0,curious,0,0,['EuroVéloCit']
+Aebanca,0,0,0,0,0,0
+sectorceca,0,0,0,0,0,0
+ecb,de,0,unknown,0,0,"['sge', 'pokalsieger', 'fcbsge', 'dieRÜCKKEHR']"
+ecb,en,0,unknown,0,0,"['IDAHOBIT2018', 'FreeToBeMe']"
+PhilippaSigl,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['SoU2018']
+ecb,en,0,curious,0,0,['EUopenday']
+ecb,ro,0,analyst,0,0,
+SquawkBoxEurope,0,0,0,0,0,0
+HenrikThomsen,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['EarthHour', 'Frankfurt']"
+ecb,en,0,unknown,0,0,"['Luminale2018', 'CrossHatch']"
+ecb,en,0,unknown,0,0,"['CrossHatch', 'Luminale2018']"
+ecb,de,0,unknown,0,0,['CrossHatch']
+ecb,en,0,unknown,0,0,['CrossHatch']
+ecb,de,0,unknown,0,0,"['CrossHatch', 'Luminale2018', 'Frankfurt']"
+ecb,en,0,unknown,0,0,"['CrossHatch', 'Luminale2018', 'Frankfurt']"
+ecb,de,0,unknown,0,0,"['Frankfurt', 'Luminale2018', 'CrossHatch']"
+ecb,en,0,unknown,0,0,"['Frankfurt', 'Luminale2018', 'CrossHatch']"
+ecb,de,0,unknown,0,0,['Luminale2018']
+ecb,en,0,unknown,0,0,"['Luminale2018', 'Frankfurt']"
+finleap,0,0,0,0,0,0
+andreaspreis,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['Luminale2018']
+ecb,en,0,unknown,0,0,['Draghi']
+alkhwarizmi42,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['Frankfurt', 'cold']"
+ecb,en,0,unknown,0,0,['genderequality']
+ecb,en,0,critic,0,0,"['AskDraghi', 'ECBYouthDialogue']"
+debatingeurope,0,0,0,0,0,0
+ecb,en,0,critic,0,0,"['AI', 'robots', 'AskDraghi', 'ECBYouthDialogue']"
+JanMusschoot,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,"['blockchain', 'AskDraghi', 'ECBYouthDialogue']"
+VMECollins,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['bitcoin', 'AskDraghi', 'ECBYouthDialogue']"
+ecb,en,0,critic,0,0,"['bitcoin', 'AskDraghi', 'ECBYouthDialogue']"
+italomottini95,0,0,0,0,0,0
+af99478881,0,0,0,0,0,0
+classcnbc,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['AskDraghi']
+ecb,en,0,unknown,0,0,['Bitcoin']
+ecb,nl,0,unknown,0,0,['AskECB']
+serbanmarian17,0,0,0,0,0,0
+tryingET,0,0,0,0,0,0
+pdemetriades,0,0,0,0,0,0
+uniofleicester,0,0,0,0,0,0
+ecb,en,0,politics,0,0,"['ECBYouthDialogue', 'askdraghi']"
+ecb,en,0,critic,0,0,"['ECBYouthDialogue', 'AskDraghi']"
+ecb,en,1,critic,0,0,"['bitcoin', 'ECBYouthDialogue', 'cryptocurrencies', 'AskDraghi']"
+FiatSpeculator,0,0,0,0,0,0
+paulgoodwin123,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['ChristmasInABox', 'StiftungKinderzukunft']"
+ecb,en,0,unknown,0,0,['ECBCommsConference']
+ecb,en,0,unknown,0,0,['TIPSapp']
+Ciceroni_EU,0,0,0,0,0,0
+MarinaQuenan,0,0,0,0,0,0
+les_jeco,0,0,0,0,0,0
+ecb,et,0,unknown,0,0,['EuroVideoChallenge']
+ecb,en,0,unknown,0,0,"['EuroVideoChallenge', 'EuroVideoChallenge']"
+ecb,fr,0,unknown,0,0,['EuroVideoChallenge']
+SvenAfhueppe,0,0,0,0,0,0
+ecb,sl,0,unknown,0,0,
+ClausVistesen,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['Sibos', 'TARGETServices']"
+ecb,en,0,curious,0,0,['T2S']
+ecb,en,0,unknown,0,0,['TARGET2']
+ecb,en,0,unknown,0,0,"['TARGETServices', 'TIPSapp']"
+ecb,en,0,unknown,0,0,"['TIPS', 'TIPSapp']"
+ecb,en,0,finance expert,0,0,['TARGETServices']
+ecb,tl,0,unknown,0,0,
+ecb,en,0,unknown,0,0,['Sibos2017']
+ecb,en,0,unknown,0,0,['ECBVisitorCentre']
+ecb,en,0,unknown,0,0,['InternationalTranslationDay']
+ecb,en,0,supporter,0,0,['InternationalTranslationDay']
+ecb,es,0,unknown,0,0,['EuroVideoChallenge']
+ecb,en,0,unknown,0,0,['DLT']
+Bank_of_Japan_e,0,0,0,0,0,0
+ecb,it,0,unknown,0,0,['EuroVideoChallenge']
+ecb,de,0,unknown,0,0,['EuroVideoChallenge']
+ecb,en,0,unknown,0,0,['EuropaOpenAir']
+ecb,de,0,unknown,0,0,['EuropaOpenAir']
+ecb,en,0,politics,0,0,['EuropaOpenAir']
+voxeu,0,0,0,0,0,0
+ecb,es,0,unknown,0,0,['EuropaOpenAir']
+MIT,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,"['ECBForum', 'ECBYouthDialogue']"
+notayesmansecon,0,0,0,0,0,0
+cm_Lacydon,0,0,0,0,0,0
+ecb,fr,0,critic,0,0,['ECBYouthDialogue']
+ecb,en,0,supporter,0,0,['IDAHOT']
+ecb,no,0,unknown,0,0,
+CNBCi,0,0,0,0,0,0
+ecb,sv,0,analyst,0,0,
+ecb,en,0,unknown,0,0,['EarthHour']
+MIT_Innovation,0,0,0,0,0,0
+ecb,en,0,unknown,0,0,['EUinnovation']
+TheStalwart,0,0,0,0,0,0
+neilcredit,0,0,0,0,0,0
+ecb,en,0,critic,0,0,['askECB']
+ecb,en,0,unknown,0,0,['askECB']
+jmackin2,0,0,0,0,0,0
+ecb,en,0,finance expert,0,0,['askECB']
+mheger78,0,0,0,0,0,0
+saeedamenfx,0,0,0,0,0,0
+macrocredit,0,0,0,0,0,0
+rafaminos,0,0,0,0,0,0
+macro_times,0,0,0,0,0,0
+ThalersCorner,0,0,0,0,0,0
+Frances_Coppola,0,0,0,0,0,0
