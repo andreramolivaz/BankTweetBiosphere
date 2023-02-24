@@ -1,6 +1,13 @@
 # An Insight into Twitter Networks of Central Banks
 The project is about making a social network analysis on the Twitter platform for the European Central Bank, the Bank of England and the Federal Reserve. 
 
+<div align="center">
+
+<img src="http://jevemanagerpsw.altervista.org/ntw_graph.png" width="600" height="350" />
+
+</div>
+
+
 ## Features:
 
 - Network on Gephi
@@ -10,11 +17,6 @@ The project is about making a social network analysis on the Twitter platform fo
 - A Case study: "whatever it takes"
 
 
-<div align="center">
-
-<img src="http://jevemanagerpsw.altervista.org/ntw_graph.png" width="600" height="350" />
-
-</div>
 
 
 
