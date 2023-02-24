@@ -23,6 +23,6 @@ The project is about making a social network analysis on the tweet platform for 
 
 ## Documentation
 
-You can find the detailed report of the project [here](https://andreramolivaz.github.io/Checkers-documentation/).
+You can find the detailed report of the project [here](https://github.com/andreramolivaz/ecb_boe_fed-social_network_analysis/blob/main/report/article_3.pdf).
 
 An interactive network graphs is also avaiable [here](https://andreramolivaz.github.io/CT0540-graph/).
