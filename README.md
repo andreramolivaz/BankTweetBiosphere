@@ -1,5 +1,5 @@
 # An Insight into Twitter Networks of Central Banks
-The project is about making a social network analysis on the tweet platform for European Central Bank, Bank of England and Federal Reserve. 
+The project is about making a social network analysis on the Twitter platform for the European Central Bank, the Bank of England and the Federal Reserve. 
 
 ## Features:
 
@@ -20,6 +20,6 @@ The project is about making a social network analysis on the tweet platform for 
 
 ## Documentation
 
-You can find the report of the project [here](https://github.com/andreramolivaz/ecb_boe_fed-social_network_analysis/blob/main/report/article_3.pdf).
+The report of the project is avaiable [here](https://github.com/andreramolivaz/ecb_boe_fed-social_network_analysis/blob/main/report/article_3.pdf).
 
 An interactive network graph is also avaiable [here](https://andreramolivaz.github.io/CT0540-graph/).
