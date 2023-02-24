@@ -11,12 +11,9 @@ The project is about making a social network analysis on the tweet platform for 
 
 
 <div align="center">
- <table>
-   <tr>
-<td><img src="http://jevemanagerpsw.altervista.org/ntw_graph.png" width="600" height="350" /><br>
-</td> 
-   </tr>
-  </table>
+
+<img src="http://jevemanagerpsw.altervista.org/ntw_graph.png" width="600" height="350" />
+
 </div>
 
 
