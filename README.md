@@ -3,7 +3,7 @@ The project is about making a social network analysis on the Twitter platform fo
 
 <div align="center">
 
-<img src="http://jevemanagerpsw.altervista.org/ntw_graph.png" width="600" height="350" />
+<img src="https://raw.githubusercontent.com/andreramolivaz/Network_analysis/main/gephi/output/ntw_graph.png" width="600" height="350" />
 
 </div>
 
