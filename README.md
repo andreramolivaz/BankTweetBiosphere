@@ -14,7 +14,7 @@ The primary objective of this project is to gain insights into the intricate dyn
 - [x] Topic Modeling:
   - [x] Applying topic modeling techniques to identify the main themes and topics of discussion among the central banks and their interactions with users.
   - [x] Utilizing a network approach to understand how topics spread and evolve within the social affiliation network.
-- [ ] Hashtag Evaluation:
+- [x] Hashtag Evaluation:
   - [x] Evaluating the usage and impact of hashtags employed by central banks on social media.
   - [x] Analyzing the popularity, reach, and engagement of hashtags to assess their effectiveness in driving conversations and disseminating information.
 - [x] Sentiment Analysis:
