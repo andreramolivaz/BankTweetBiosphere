@@ -1,4 +1,4 @@
-# An Insight into Twitter Networks of Central Banks
+# An Insight into Twitter Networks of Central Banks  
 The project focuses on studying the presence of banks on social media, using three central banks as case studies: the `European Central Bank (ECB)`, the `Federal Reserve (FED)`, and the `Bank of England (BoE)`.
 
 The primary objective of this project is to gain insights into the intricate dynamics of the social affiliation network, examine the dissemination of information within it, and analyze how banks interact with users. The analysis encompasses several aspects, including the identification of communities within the network, exploration of homophily through focus closure and membership closure, examination of information distribution, topic modeling with a network approach, evaluation of hashtags, and sentiment analysis.
