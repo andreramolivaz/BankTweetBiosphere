@@ -6,7 +6,7 @@
 
 The project focuses on studying the presence of banks on social media, using three central banks as case studies: the `European Central Bank (ECB)`, the `Federal Reserve (FED)`, and the `Bank of England (BoE)`.
 
-The primary objective of this project is to gain insights into the intricate dynamics of the social affiliation network, examine the dissemination of information within it, and analyze how banks interact with users. The analysis encompasses several aspects, including the identification of communities within the network, exploration of homophily through focus closure and membership closure, examination of information distribution, topic modeling with a network approach, evaluation of hashtags, and sentiment analysis.
+The primary objective of this project is to gain insights into the intricate dynamics of the social affiliation network, examine the dissemination of information within it, and analyze how banks interact with users.
 
 ## Features:
 
@@ -14,13 +14,12 @@ The primary objective of this project is to gain insights into the intricate dyn
   ![Network Analysis](https://raw.githubusercontent.com/andreramolivaz/Social_Network_Analysis/main/gephi/output/Schermata%202023-06-21%20alle%2009.48.33.png)
   ![Community Detection](https://raw.githubusercontent.com/andreramolivaz/Social_Network_Analysis/main/gephi/output/Schermata%202023-06-21%20alle%2009.48.23.png)
 
-- **Information Distribution Analysis:** Examine information flow within the network and analyze distribution among communities and influential users.
+- **Information Distribution Analysis:** Examine information flow within the network and analyze distribution among communities and influential users. 
+- **Topic Modeling:** Identify main themes and topics of discussion, and study how they spread and evolve within the network. 
 
-- **Topic Modeling:** Identify main themes and topics of discussion, and study how they spread and evolve within the network.
+- **Hashtag Evaluation:** Assess the impact and effectiveness of hashtags used by central banks on social media. 
 
-- **Hashtag Evaluation:** Assess the impact and effectiveness of hashtags used by central banks on social media.
-
-- **Sentiment Analysis:** Gauge sentiment expressed in communications of central banks and public sentiment towards them.
+- **Sentiment Analysis:** Gauge sentiment expressed in communications of central banks and public sentiment towards them. 
 
 - **A Case Study: The Whatever It Takes ~ Mario Draghi**
 
