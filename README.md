@@ -11,8 +11,8 @@ The primary objective of this project is to gain insights into the intricate dyn
 ## Features:
 
 - **Social Affiliation Network Analysis:** Analyze user interactions, identify communities, and explore patterns of interaction within communities.
-  ![Network Analysis](https://raw.githubusercontent.com/andreramolivaz/Social_Network_Analysis/main/gephi/output/Schermata%202023-06-21%20alle%2009.48.33.png)
-  ![Community Detection](https://raw.githubusercontent.com/andreramolivaz/Social_Network_Analysis/main/gephi/output/Schermata%202023-06-21%20alle%2009.48.23.png)
+  ![Network Analysis](https://raw.githubusercontent.com/andreramolivaz/Social_Network_Analysis/gephi/output/Schermata%202023-06-21%20alle%2009.48.33.png)
+  ![Community Detection](https://raw.githubusercontent.com/andreramolivaz/Social_Network_Analysis/gephi/output/Schermata%202023-06-21%20alle%2009.48.23.png)
 
 - **Information Distribution Analysis:** Examine information flow within the network and analyze distribution among communities and influential users. 
 - **Topic Modeling:** Identify main themes and topics of discussion, and study how they spread and evolve within the network. 
