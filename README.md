@@ -27,7 +27,7 @@ The primary objective of this project is to gain insights into the intricate dyn
 
 ## Results
 
-The social affiliation network graph is avaiable [here][https://andreramolivaz.github.io/Social_Network_Analysis/]).
+The social affiliation network graph is avaiable [here](https://andreramolivaz.github.io/Social_Network_Analysis/).
 
 The report of the project is avaiable [here](https://github.com/andreramolivaz/ecb_boe_fed-social_network_analysis/blob/main/report/article_3.pdf),the relative ppt is avaiable [here](https://github.com/andreramolivaz/ecb_boe_fed-social_network_analysis/blob/main/report/SNA.pdf).
 
