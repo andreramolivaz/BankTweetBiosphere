@@ -6,7 +6,7 @@
 
 The project focuses on studying the presence of banks on social media, using three central banks as case studies: the `European Central Bank (ECB)`, the `Federal Reserve (FED)`, and the `Bank of England (BoE)`.
 
-The primary objective of this project is to gain insights into the intricate dynamics of the social affiliation network, examine the dissemination of information within it, and analyze how banks interact with users.
+The primary objective of this project is to gain insights into the intricate dynamics of the social affiliation network, examine the dissemination of information within it (focousing on homophily, triadic closure, sentiment analysis), and analyze how banks interact with users.
 
 ## Features:
 
@@ -14,7 +14,7 @@ The primary objective of this project is to gain insights into the intricate dyn
   ![Network Analysis](https://raw.githubusercontent.com/andreramolivaz/Social_Network_Analysis/gephi/output/Schermata%202023-06-21%20alle%2009.48.33.png)
   ![Community Detection](https://raw.githubusercontent.com/andreramolivaz/Social_Network_Analysis/gephi/output/Schermata%202023-06-21%20alle%2009.48.23.png)
 
-- **Information Distribution Analysis:** Examine information flow within the network and analyze distribution among communities and influential users. 
+- **Information Distribution Analysis:** Examine information flow within the network and analyze distribution among communities (see above) and classified users(check all type of users identified at this [link](https://andreramolivaz.github.io/Social_Network_Analysis/) ). 
 - **Topic Modeling:** Identify main themes and topics of discussion, and study how they spread and evolve within the network. 
 
 - **Hashtag Evaluation:** Assess the impact and effectiveness of hashtags used by central banks on social media. 
